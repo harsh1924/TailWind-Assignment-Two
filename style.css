@@ -971,6 +971,14 @@ video {
     height: 90vh;
   }
 
+  .md\:h-\[100vh\] {
+    height: 100vh;
+  }
+
+  .md\:h-\[10g0vh\] {
+    height: 10g0vh;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
